@@ -9,6 +9,9 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 (configure file tailwind.config.js and index.css according to the guide at https://tailwindcss.com/docs/guides/vite)
 
+Lucide icons:
+npm i lucide-react
+
 
 Currently, two official plugins are available:
 
