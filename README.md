@@ -4,6 +4,11 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Packages used in this project:
 
+Tailwind CSS:
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+(configure file tailwind.config.js and index.css according to the guide at https://tailwindcss.com/docs/guides/vite)
+
 
 Currently, two official plugins are available:
 
