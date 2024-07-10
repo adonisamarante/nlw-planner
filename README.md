@@ -12,6 +12,10 @@ npx tailwindcss init -p
 Lucide icons:
 npm i lucide-react
 
+React Router:
+npm install react-router-dom
+npm install localforage match-sorter sort-by
+
 
 Currently, two official plugins are available:
 
