@@ -7,7 +7,10 @@ Packages used in this project:
 Tailwind CSS:
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-(configure file tailwind.config.js and index.css according to the guide at https://tailwindcss.com/docs/guides/vite)
+(configured file tailwind.config.js and index.css according to the guide at https://tailwindcss.com/docs/guides/vite)
+
+Tailwind Variants:
+npm i tailwind-variants
 
 Lucide icons:
 npm i lucide-react
