@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Packages used in this project:
+Packages installed in this project:
 
 Tailwind CSS:
 npm install -D tailwindcss postcss autoprefixer
@@ -18,6 +18,12 @@ npm i lucide-react
 React Router:
 npm install react-router-dom
 npm install localforage match-sorter sort-by
+
+DayPicker + date-fns:
+npm install react-day-picker date-fns
+
+Axios:
+npm i axios
 
 
 Currently, two official plugins are available:
